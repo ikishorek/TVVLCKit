@@ -1,0 +1,6 @@
+build/
+MobileVLCKit/*
+!MobileVLCKit/patches
+xcuserdata/
+.DS_Store
+.Trashes
